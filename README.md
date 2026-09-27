@@ -1,7 +1,7 @@
 # Assignment 01 – OOP Concepts (Encapsulation, Inheritance/Polymorphism, Abstraction)
 
 ## Description
-Solution for **Assignment 01** in **Software Construction** (5th Semester, Software
+Solution for **Assignment 01** in **Software Construction And Development** (5th Semester, Software
 Engineering, UET Abbottabad). Covers four OOP-focused tasks: encapsulation, inheritance
 and polymorphism, abstraction via interfaces, and a critique of AI-generated code.
 
@@ -58,14 +58,17 @@ SC-Assignment-1-OOP/
 - **In NetBeans:** open the project (File > Open Project, select the folder containing
   `pom.xml`). Right-click `task2/Main.java` → **Run File** to see the polymorphism demo
   print each employee's pay.
-- **From the command line:** `mvn compile exec:java`
+- **From the command line:**
+  ```sh
+  mvn compile exec:java
+  ```
 
 ## Reflections
 See the accompanying PDF report for the written reflections on Tasks 1–3 and the
 Task 4 AI code critique.
 
 ## Author
-[Student Name] – [Registration Number]
+Muhammad Umar Basit – 24ABSWE0003
 
 ## Course
 Software Construction and Development, 5th Semester Software Engineering,
